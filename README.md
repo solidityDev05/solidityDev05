@@ -35,11 +35,11 @@
       <br>Anchor
     </td>
     <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
+      <img src="./foundry.jpg" alt="icon" width="55" height="55" />
       <br>Foundry
     </td>
     <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
+      <img src="./Hardhat.png" alt="HardHat" width="55" height="55" />
       <br>HardHat
     </td>
     <td align="center" width="90">
